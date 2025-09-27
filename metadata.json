@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sleeper API Data Viewer",
+  "description": "A sleek and modern web application to fetch and display user data from the Sleeper fantasy sports API. Enter a username to view their profile information.",
+  "requestFramePermissions": []
+}
